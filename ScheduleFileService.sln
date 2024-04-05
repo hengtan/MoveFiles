@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{93076685-52C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleFileService", "src\ScheduleFileService\ScheduleFileService.csproj", "{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleFileConsole", "src\ScheduleFileConsole\ScheduleFileConsole.csproj", "{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BF7FE918-C40E-417C-8BB3-1EE635E95F4D} = {93076685-52CE-4689-AC7E-E029A0D67BA0}
+		{2A14FFAE-C9BB-467B-A1F2-C6977F34B268} = {93076685-52CE-4689-AC7E-E029A0D67BA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F427C8D1-8F44-4FD7-89C9-70F8EBA2D5DF}

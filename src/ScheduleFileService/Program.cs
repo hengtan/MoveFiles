@@ -1,4 +1,5 @@
-﻿using ScheduleFileService.Log;
+﻿using System.ServiceProcess;
+using ScheduleFileService.Log;
 using ScheduleFileService.Log.Interfaces;
 using ScheduleFileService.Services;
 using ScheduleFileService.Services.Interfaces;
@@ -12,21 +13,22 @@ namespace ScheduleFileService
         /// </summary>
         static void Main()
         {
+            ILogService logService = new LogService();
+            IFileService fileService = new FileService();
+            ISettingsService settingsService = new SettingsService();
+            IServiceFlow serviceFlow = new ServiceFlow(logService, fileService, settingsService);
+
 #if (!DEBUG)
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new Service1(serviceFlow) // Pass serviceFlow to the constructor
             };
             ServiceBase.Run(ServicesToRun);
 #else
             // Debug code: Allows you to debug code without passing through a Windows Service.
             // Set which method you want to call at the start of Debug (e.g. MethodPerformsFunction)
             // After debugging, just compile in Release and install to work normally.
-            ILogService logService = new LogService();
-            IFileService fileService = new FileService();
-            ISettingsService settingsService = new SettingsService();
-            IServiceFlow serviceFlow = new ServiceFlow(logService, fileService, settingsService);
             Service1 service = new Service1(serviceFlow);
             // Call your method for Debug.
             serviceFlow.Run();
