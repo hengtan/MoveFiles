@@ -60,13 +60,11 @@ namespace ScheduleFileService.Log
             {
                 sw.WriteLine("List of moved items: ");
                 WriteFileDetails(sw, fileExecuted.ArquivosMovidos, "Moved");
-            }
-            //WriteFileDetails(sw, fileExecuted.ArquivosMovidos, "Moved");
+            }            
             if (fileExecuted.ArquivosNaoMovidos.Count > 0)
             {
                 WriteFileDetails(sw, fileExecuted.ArquivosNaoMovidos, "Moved");
-            }
-            //WriteFileDetails(sw, fileExecuted.ArquivosNaoMovidos, "Not Moved");
+            }            
             sw.WriteLine("\n");
         }
 
