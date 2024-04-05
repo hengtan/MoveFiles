@@ -5,3 +5,5 @@ C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debu
 C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.csproj.CoreCompileInputs.cache
 C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.exe
 C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.pdb
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.ProjectInstaller.resources
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.csproj.GenerateResource.cache

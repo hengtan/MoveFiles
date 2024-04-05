@@ -1,5 +1,4 @@
 ﻿using ScheduleFileConsole.Log.Interfaces;
-using System.IO;
 
 namespace ScheduleFileConsole.Log
 {
@@ -75,6 +74,16 @@ namespace ScheduleFileConsole.Log
             {
                 File.Copy(source, destination, true);
             }
+        }
+
+        public string[] GetFiles(string path, string searchPattern, SearchOption searchOption)
+        {
+            return Directory.GetFiles(path, searchPattern, searchOption);
+        }
+
+        public string[] GetFileSystemEntries(string path, string searchPattern, SearchOption searchOption)
+        {
+            return Directory.GetFileSystemEntries(path, searchPattern, searchOption);
         }
     }
 }

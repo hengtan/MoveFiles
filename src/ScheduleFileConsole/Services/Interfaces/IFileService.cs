@@ -12,5 +12,7 @@
         void Move(string source, string destination);
         string[] ReadAllLines(string path);
         void Copy(string source, string destination);
+        string[] GetFiles(string path, string searchPattern, SearchOption searchOption);
+        string[] GetFileSystemEntries(string path, string searchPattern, SearchOption searchOption);
     }
 }

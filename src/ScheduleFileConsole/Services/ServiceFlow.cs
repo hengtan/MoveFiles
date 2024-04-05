@@ -4,27 +4,26 @@ using ScheduleFileConsole.Services.Interfaces;
 
 namespace ScheduleFileConsole.Services
 {
-    public class ServiceFlow : IServiceFlow
+    public class ServiceFlow(ILogService log, IFileService fileService, ISettingsService settingsService) : IServiceFlow
     {
-        private readonly ILogService _log;
-        private readonly IFileService _fileService;
-        private readonly ISettingsService _settingsService;
-
-        public ServiceFlow(ILogService log, IFileService fileService, ISettingsService settingsService)
-        {
-            _log = log;
-            _fileService = fileService;
-            _settingsService = settingsService;
-        }
+        private readonly ILogService _log = log;
+        private readonly IFileService _fileService = fileService;
+        private readonly ISettingsService _settingsService = settingsService;
 
         public void Run()
         {
+            //show message start
+            Console.WriteLine("Starting the service...");
+
             _fileService.SystemFolders();
             _settingsService.CreateInitialSettingsFile();
             _log.CreateInitialLogFile();
             _settingsService.InsertingSettings();
             _log.InitialMessage();
             _settingsService.ReadSettings();
+
+            //show message end
+            Console.WriteLine("Finishing the service...");
         }
     }
 }
