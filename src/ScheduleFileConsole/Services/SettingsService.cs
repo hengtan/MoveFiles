@@ -98,28 +98,41 @@ namespace ScheduleFileConsole.Services
                 DataInicial = DateTime.Now,
                 Origem = source,
                 Destino = destination,
-                QTDOrigem = Directory.GetFiles(source).Length,
+                QTDOrigem = Directory.GetFiles(source, "*.*", SearchOption.AllDirectories).Length,
                 ArquivosMovidos = new List<Files>(),
                 ArquivosNaoMovidos = new List<Files>()
             };
 
-            string[] files = _fileService.GetFiles(source);
+            DirectoryInfo sourceDir = new DirectoryInfo(source);
 
-            foreach (string file in files)
-            {
-                string fileName = Path.GetFileName(file);
-                string destFile = Path.Combine(destination, fileName);
-                if (_fileService.ExistFile(destFile))
-                {
-                    _fileService.Delete(destFile);
-                }
-                _fileService.Move(file, destFile);
-                fileExecuted.ArquivosMovidos.Add(new Files { Nome = file });
-            }
+            // This recursive method will copy all files and directories
+            CopyAll(sourceDir, destination, fileExecuted);
 
             fileExecuted.DataFinal = DateTime.Now;
 
             return fileExecuted;
+        }
+
+        private void CopyAll(DirectoryInfo source, string destination, FileExecuted fileExecuted)
+        {
+            Directory.CreateDirectory(destination);
+
+            foreach (FileInfo file in source.GetFiles())
+            {
+                string destFile = Path.Combine(destination, file.Name);
+                if (_fileService.ExistFile(destFile))
+                {
+                    _fileService.Delete(destFile);
+                }
+                _fileService.Copy(file.FullName, destFile);
+                fileExecuted.ArquivosMovidos.Add(new Files { Nome = file.FullName });
+            }
+
+            foreach (DirectoryInfo subDir in source.GetDirectories())
+            {
+                string destDir = Path.Combine(destination, subDir.Name);
+                CopyAll(subDir, destDir, fileExecuted);
+            }
         }
     }
 }

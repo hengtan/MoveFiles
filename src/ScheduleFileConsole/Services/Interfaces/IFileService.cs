@@ -11,5 +11,6 @@
         void Delete(string path);
         void Move(string source, string destination);
         string[] ReadAllLines(string path);
+        void Copy(string source, string destination);
     }
 }

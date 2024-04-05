@@ -68,5 +68,13 @@ namespace ScheduleFileConsole.Log
         {
             return File.ReadAllLines(path);
         }
+
+        public void Copy(string source, string destination)
+        {
+            if (File.Exists(source))
+            {
+                File.Copy(source, destination, true);
+            }
+        }
     }
 }

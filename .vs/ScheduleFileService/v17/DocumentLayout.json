@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\serviceflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\serviceflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\schedulefileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\interfaces\\iserviceflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\log\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\log\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\log\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\log\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\schedulefileservice\\services\\serviceflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,15 +51,11 @@
       "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\interfaces\\isettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileconsole\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A14FFAE-C9BB-467B-A1F2-C6977F34B268}|src\\ScheduleFileConsole\\ScheduleFileConsole.csproj|solutionrelative:src\\schedulefileconsole\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\schedulefileservice\\fileexecuted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|solutionrelative:src\\schedulefileservice\\fileexecuted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|c:\\users\\hengt\\source\\repos\\schedulefileservice\\src\\schedulefileservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\schedulefileservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7FE918-C40E-417C-8BB3-1EE635E95F4D}|src\\ScheduleFileService\\ScheduleFileService.csproj|solutionrelative:src\\schedulefileservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -119,41 +119,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SettingsService.cs",
               "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\SettingsService.cs",
               "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\SettingsService.cs",
               "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\SettingsService.cs",
               "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\SettingsService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAEAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T05:29:26.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Program.cs",
               "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Program.cs",
               "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Program.cs",
               "RelativeToolTip": "src\\ScheduleFileConsole\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T05:27:55.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IServiceFlow.cs",
-              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
-              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
-              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
-              "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ScheduleFileService\\Program.cs",
+              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileService\\Program.cs",
+              "RelativeToolTip": "src\\ScheduleFileService\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:29:04.002Z",
+              "WhenOpened": "2024-04-04T20:00:53.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
+              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
+              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
+              "RelativeToolTip": "src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:30:10.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\LogService.cs",
+              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Log\\LogService.cs",
+              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\LogService.cs",
+              "RelativeToolTip": "src\\ScheduleFileConsole\\Log\\LogService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:30:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\FileService.cs",
+              "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:29:10.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:28:57.954Z",
               "EditorCaption": ""
             },
             {
@@ -164,66 +213,26 @@
               "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\ServiceFlow.cs",
               "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\ServiceFlow.cs",
               "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\ServiceFlow.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAIAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T05:29:14.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileService\\Program.cs",
-              "RelativeDocumentMoniker": "src\\ScheduleFileService\\Program.cs",
-              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileService\\Program.cs",
-              "RelativeToolTip": "src\\ScheduleFileService\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T20:00:53.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILogService.cs",
-              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
-              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
-              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
-              "RelativeToolTip": "src\\ScheduleFileConsole\\Log\\Interfaces\\ILogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:30:10.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LogService.cs",
-              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\LogService.cs",
-              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Log\\LogService.cs",
-              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Log\\LogService.cs",
-              "RelativeToolTip": "src\\ScheduleFileConsole\\Log\\LogService.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Title": "IServiceFlow.cs",
+              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
+              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
+              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
+              "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\Interfaces\\IServiceFlow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:30:06.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T05:29:04.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\FileService.cs",
-              "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\FileService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:29:10.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ServiceFlow.cs",
               "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileService\\Services\\ServiceFlow.cs",
               "RelativeDocumentMoniker": "src\\ScheduleFileService\\Services\\ServiceFlow.cs",
@@ -231,12 +240,11 @@
               "RelativeToolTip": "src\\ScheduleFileService\\Services\\ServiceFlow.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:29:37.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T04:29:37.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FileExecuted.cs",
               "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Model\\FileExecuted.cs",
               "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Model\\FileExecuted.cs",
@@ -244,12 +252,11 @@
               "RelativeToolTip": "src\\ScheduleFileConsole\\Model\\FileExecuted.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:28:42.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T05:28:42.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ISettingsService.cs",
               "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\ISettingsService.cs",
               "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\Interfaces\\ISettingsService.cs",
@@ -257,21 +264,7 @@
               "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\Interfaces\\ISettingsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:29:08.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFileService.cs",
-              "DocumentMoniker": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
-              "RelativeDocumentMoniker": "src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
-              "ToolTip": "C:\\Users\\hengt\\source\\repos\\ScheduleFileService\\src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
-              "RelativeToolTip": "src\\ScheduleFileConsole\\Services\\Interfaces\\IFileService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:28:57.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T05:29:08.225Z"
             },
             {
               "$type": "Document",
@@ -283,8 +276,7 @@
               "RelativeToolTip": "src\\ScheduleFileService\\ProjectInstaller.Designer.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAuwCcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:57:39.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T04:57:39.469Z"
             },
             {
               "$type": "Document",
@@ -296,8 +288,7 @@
               "RelativeToolTip": "src\\ScheduleFileService\\FileExecuted.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:56:39.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T04:56:39.262Z"
             },
             {
               "$type": "Document",
