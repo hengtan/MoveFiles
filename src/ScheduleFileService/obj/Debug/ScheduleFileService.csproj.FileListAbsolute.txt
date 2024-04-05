@@ -1,0 +1,7 @@
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\bin\Debug\ScheduleFileService.exe.config
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\bin\Debug\ScheduleFileService.exe
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\bin\Debug\ScheduleFileService.pdb
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.csproj.AssemblyReference.cache
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.csproj.CoreCompileInputs.cache
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.exe
+C:\Users\hengt\source\repos\ScheduleFileService\src\ScheduleFileService\obj\Debug\ScheduleFileService.pdb
