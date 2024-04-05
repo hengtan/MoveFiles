@@ -49,6 +49,7 @@
     <Compile Include="Services\FileService.cs" />
     <Compile Include="Services\Interfaces\IFileService.cs" />
     <Compile Include="Log\Interfaces\ILogService.cs" />
+    <Compile Include="Services\Interfaces\IServiceFlow.cs" />
     <Compile Include="Services\Interfaces\ISettingsService.cs" />
     <Compile Include="Log\LogService.cs" />
     <Compile Include="Service1.cs">
@@ -59,6 +60,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ServiceFlow.cs" />
     <Compile Include="Services\SettingsService.cs" />
   </ItemGroup>
   <ItemGroup>

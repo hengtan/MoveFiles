@@ -1,5 +1,4 @@
 ﻿using ScheduleFileService.Log.Interfaces;
-using System;
 using System.IO;
 
 namespace ScheduleFileService.Log
@@ -51,7 +50,6 @@ namespace ScheduleFileService.Log
         {
             return Directory.Exists(path);
         }
-
 
         public string[] GetFiles(string path)
         {

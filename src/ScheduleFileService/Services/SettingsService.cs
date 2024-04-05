@@ -1,5 +1,4 @@
 ﻿using ScheduleFileService.Log;
-using ScheduleFileService;
 using ScheduleFileService.Log.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -57,25 +56,6 @@ namespace ScheduleFileService.Services
                 }
             }
         }
-
-        //string filePath = @"C:\ScheduleFile\configuration\settings.txt";
-        ////    bool settingsFileExists = File.Exists(filePath);
-
-        ////    if (settingsFileExists)
-        ////    {
-        ////        string content = File.ReadAllText(filePath);
-        ////        if (string.IsNullOrEmpty(content))
-        ////        {
-        ////            using (StreamWriter sw = File.AppendText(filePath))
-        ////            {
-        ////                var origem = "ORIGEM: C:\\origem";
-        ////                var destiny = "DESTINO: C:\\destino";
-
-        ////                sw.WriteLine(origem);
-        ////                sw.WriteLine(destiny);
-        ////            }
-        ////        }
-        ////    }
 
         public void ReadSettings()
         {
@@ -142,23 +122,5 @@ namespace ScheduleFileService.Services
 
             return fileExecuted;
         }
-
     }
 }
-
-//string filePath = @"C:\ScheduleFile\configuration\settings.txt";
-//string[] lines = File.ReadAllLines(filePath);
-//string[] strings = new string[3];
-//var startIndex = 0;
-
-
-
-//if (Directory.GetFiles(strings[0]).Length == 0)
-//{
-//    log.CreateLog(fileExecuted);
-//}
-//else
-//{
-
-
-//}
